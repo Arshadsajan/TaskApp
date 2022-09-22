@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "137689884588",
+    "firebase_url": "https://mytaskbase-default-rtdb.firebaseio.com",
+    "project_id": "mytaskbase",
+    "storage_bucket": "mytaskbase.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:137689884588:android:da5f8add9fd765a0e8fc09",
+        "android_client_info": {
+          "package_name": "com.mysite.taskapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "137689884588-fgb5dcutpdkgb151tc9sc6fsvg68mk1s.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBUYgKG3TKS2FR7Ak41Eb0ed2YFlkjXw8U"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "137689884588-fgb5dcutpdkgb151tc9sc6fsvg68mk1s.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
